@@ -33,6 +33,9 @@
 // console.log(arr4);    here it returned from the given indexes
 // console.log(arr);     here it deleted them from original array
 
+// let arr5 = [1, 2, ['apple', 'orange', [3, 4]]]     this method joins all child arrays with main array
+// let arr6 = arr5.flat(Infinity)
+// console.log(arr6);
 
 //-------------------------------------------- STRING METHODS ------------------------------------------------------------//
 
