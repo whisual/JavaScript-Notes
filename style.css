@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.bulb{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 100%
+}
+.btn{
+    color: white;
+    background-color: black;
+}
