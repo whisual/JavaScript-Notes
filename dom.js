@@ -106,3 +106,18 @@
 //         flag = 0
 //     }
 // })
+
+
+//------------------- innerText vs innerHTML ----------------------//
+
+
+
+// innerText : innerText treats the inner code as a plain text
+
+// const a = document.querySelector('.textvHtml')
+// a.innerText = "<a href='/'>Click Me</a>"
+
+// innerHTML : innerHTML treats the inner text as HTML code
+
+// const a = document.querySelector('.textvHtml')
+// a.innerHTML = "<a href='/'>Click Me</a>"
